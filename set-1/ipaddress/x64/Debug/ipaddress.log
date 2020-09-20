@@ -1,0 +1,4 @@
+﻿  pch.cpp
+C:\Users\Training\Desktop\c++\Genisis-program\c++assignment\set-1\ipaddress\pch.cpp(12,26): error C2466:  cannot allocate an array of constant size 0
+C:\Users\Training\Desktop\c++\Genisis-program\c++assignment\set-1\ipaddress\pch.cpp(19,32): error C2466:  cannot allocate an array of constant size 0
+C:\Users\Training\Desktop\c++\Genisis-program\c++assignment\set-1\ipaddress\pch.cpp(27,39): error C2466:  cannot allocate an array of constant size 0

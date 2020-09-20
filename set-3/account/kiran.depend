@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1600618315 source:e:\hello\kiran\accountbase.cc
+	"Account.h"
+	<iostream>
+
+1600621335 e:\hello\kiran\account.h
+	<string>
+
+1600620173 source:e:\hello\kiran\creditbalance.cc
+	"CreditAccount.h"
+	"Account.h"
+
+1600621310 e:\hello\kiran\creditaccount.h
+	<string>
+	"account.h"
+
+1600620486 source:e:\hello\kiran\savingaccount.cc
+	"SavingsAccount.h"
+	<iostream>
+
+1600614863 e:\hello\kiran\savingsaccount.h
+	<string>
+	"account.h"
+
+1600621362 source:e:\hello\kiran\main.cpp
+	"CreditAccount.h"
+	"SavingsAccount.h"
+	"Account.h"
+	<gtest/gtest.h>
+
